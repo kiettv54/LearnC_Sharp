@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\Loop_vong_lap\sohoanhao\sohoanhao\obj\Debug\sohoanhao.csprojAssemblyReference.cache
+D:\110117074\c_sharp\Loop_vong_lap\sohoanhao\sohoanhao\obj\Debug\sohoanhao.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\Loop_vong_lap\sohoanhao\sohoanhao\bin\Debug\sohoanhao.exe.config
+D:\110117074\c_sharp\Loop_vong_lap\sohoanhao\sohoanhao\bin\Debug\sohoanhao.exe
+D:\110117074\c_sharp\Loop_vong_lap\sohoanhao\sohoanhao\bin\Debug\sohoanhao.pdb
+D:\110117074\c_sharp\Loop_vong_lap\sohoanhao\sohoanhao\obj\Debug\sohoanhao.exe
+D:\110117074\c_sharp\Loop_vong_lap\sohoanhao\sohoanhao\obj\Debug\sohoanhao.pdb

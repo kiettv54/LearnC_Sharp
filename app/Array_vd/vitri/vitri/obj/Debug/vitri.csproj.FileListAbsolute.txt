@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\Array_vd\vitri\vitri\bin\Debug\vitri.exe.config
+D:\110117074\c_sharp\Array_vd\vitri\vitri\bin\Debug\vitri.exe
+D:\110117074\c_sharp\Array_vd\vitri\vitri\bin\Debug\vitri.pdb
+D:\110117074\c_sharp\Array_vd\vitri\vitri\obj\Debug\vitri.csprojAssemblyReference.cache
+D:\110117074\c_sharp\Array_vd\vitri\vitri\obj\Debug\vitri.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\Array_vd\vitri\vitri\obj\Debug\vitri.exe
+D:\110117074\c_sharp\Array_vd\vitri\vitri\obj\Debug\vitri.pdb

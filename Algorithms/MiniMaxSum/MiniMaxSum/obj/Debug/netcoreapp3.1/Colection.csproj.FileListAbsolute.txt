@@ -1,0 +1,13 @@
+D:\c_sharp\OOP\Colection\Colection\bin\Debug\netcoreapp3.1\Colection.exe
+D:\c_sharp\OOP\Colection\Colection\bin\Debug\netcoreapp3.1\Colection.deps.json
+D:\c_sharp\OOP\Colection\Colection\bin\Debug\netcoreapp3.1\Colection.runtimeconfig.json
+D:\c_sharp\OOP\Colection\Colection\bin\Debug\netcoreapp3.1\Colection.runtimeconfig.dev.json
+D:\c_sharp\OOP\Colection\Colection\bin\Debug\netcoreapp3.1\Colection.dll
+D:\c_sharp\OOP\Colection\Colection\bin\Debug\netcoreapp3.1\Colection.pdb
+D:\c_sharp\OOP\Colection\Colection\obj\Debug\netcoreapp3.1\Colection.csprojAssemblyReference.cache
+D:\c_sharp\OOP\Colection\Colection\obj\Debug\netcoreapp3.1\Colection.csproj.CoreCompileInputs.cache
+D:\c_sharp\OOP\Colection\Colection\obj\Debug\netcoreapp3.1\Colection.AssemblyInfoInputs.cache
+D:\c_sharp\OOP\Colection\Colection\obj\Debug\netcoreapp3.1\Colection.AssemblyInfo.cs
+D:\c_sharp\OOP\Colection\Colection\obj\Debug\netcoreapp3.1\Colection.dll
+D:\c_sharp\OOP\Colection\Colection\obj\Debug\netcoreapp3.1\Colection.pdb
+D:\c_sharp\OOP\Colection\Colection\obj\Debug\netcoreapp3.1\Colection.genruntimeconfig.cache

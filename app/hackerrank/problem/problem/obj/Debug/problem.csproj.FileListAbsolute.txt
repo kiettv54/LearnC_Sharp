@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\hackerrank\problem\problem\bin\Debug\problem.exe.config
+D:\110117074\c_sharp\hackerrank\problem\problem\bin\Debug\problem.exe
+D:\110117074\c_sharp\hackerrank\problem\problem\bin\Debug\problem.pdb
+D:\110117074\c_sharp\hackerrank\problem\problem\obj\Debug\problem.csprojAssemblyReference.cache
+D:\110117074\c_sharp\hackerrank\problem\problem\obj\Debug\problem.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\hackerrank\problem\problem\obj\Debug\problem.exe
+D:\110117074\c_sharp\hackerrank\problem\problem\obj\Debug\problem.pdb

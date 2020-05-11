@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\Loop_vong_lap\cuuhuong\cuchuong\obj\Debug\cuchuong.csprojAssemblyReference.cache
+D:\110117074\c_sharp\Loop_vong_lap\cuuhuong\cuchuong\obj\Debug\cuchuong.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\Loop_vong_lap\cuuhuong\cuchuong\bin\Debug\cuchuong.exe.config
+D:\110117074\c_sharp\Loop_vong_lap\cuuhuong\cuchuong\bin\Debug\cuchuong.exe
+D:\110117074\c_sharp\Loop_vong_lap\cuuhuong\cuchuong\bin\Debug\cuchuong.pdb
+D:\110117074\c_sharp\Loop_vong_lap\cuuhuong\cuchuong\obj\Debug\cuchuong.exe
+D:\110117074\c_sharp\Loop_vong_lap\cuuhuong\cuchuong\obj\Debug\cuchuong.pdb

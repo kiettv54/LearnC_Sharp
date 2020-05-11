@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\Array_vd\arr3\arr3\bin\Debug\arr3.exe.config
+D:\110117074\c_sharp\Array_vd\arr3\arr3\bin\Debug\arr3.exe
+D:\110117074\c_sharp\Array_vd\arr3\arr3\bin\Debug\arr3.pdb
+D:\110117074\c_sharp\Array_vd\arr3\arr3\obj\Debug\arr3.csprojAssemblyReference.cache
+D:\110117074\c_sharp\Array_vd\arr3\arr3\obj\Debug\arr3.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\Array_vd\arr3\arr3\obj\Debug\arr3.exe
+D:\110117074\c_sharp\Array_vd\arr3\arr3\obj\Debug\arr3.pdb

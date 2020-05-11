@@ -1,0 +1,11 @@
+D:\110117074\c_sharp\Hoc_bai_Bien\Hoc_bai_Bien\bin\Debug\netcoreapp2.1\Hoc_bai_Bien.deps.json
+D:\110117074\c_sharp\Hoc_bai_Bien\Hoc_bai_Bien\bin\Debug\netcoreapp2.1\Hoc_bai_Bien.runtimeconfig.json
+D:\110117074\c_sharp\Hoc_bai_Bien\Hoc_bai_Bien\bin\Debug\netcoreapp2.1\Hoc_bai_Bien.runtimeconfig.dev.json
+D:\110117074\c_sharp\Hoc_bai_Bien\Hoc_bai_Bien\bin\Debug\netcoreapp2.1\Hoc_bai_Bien.dll
+D:\110117074\c_sharp\Hoc_bai_Bien\Hoc_bai_Bien\bin\Debug\netcoreapp2.1\Hoc_bai_Bien.pdb
+D:\110117074\c_sharp\Hoc_bai_Bien\Hoc_bai_Bien\obj\Debug\netcoreapp2.1\Hoc_bai_Bien.csprojAssemblyReference.cache
+D:\110117074\c_sharp\Hoc_bai_Bien\Hoc_bai_Bien\obj\Debug\netcoreapp2.1\Hoc_bai_Bien.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\Hoc_bai_Bien\Hoc_bai_Bien\obj\Debug\netcoreapp2.1\Hoc_bai_Bien.AssemblyInfoInputs.cache
+D:\110117074\c_sharp\Hoc_bai_Bien\Hoc_bai_Bien\obj\Debug\netcoreapp2.1\Hoc_bai_Bien.AssemblyInfo.cs
+D:\110117074\c_sharp\Hoc_bai_Bien\Hoc_bai_Bien\obj\Debug\netcoreapp2.1\Hoc_bai_Bien.dll
+D:\110117074\c_sharp\Hoc_bai_Bien\Hoc_bai_Bien\obj\Debug\netcoreapp2.1\Hoc_bai_Bien.pdb

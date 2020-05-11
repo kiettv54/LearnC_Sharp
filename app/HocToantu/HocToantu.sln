@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HocToantu", "HocToantu\HocToantu.csproj", "{FB8C072F-8849-4F7D-98EF-B0FFAA94D747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8C072F-8849-4F7D-98EF-B0FFAA94D747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8C072F-8849-4F7D-98EF-B0FFAA94D747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8C072F-8849-4F7D-98EF-B0FFAA94D747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8C072F-8849-4F7D-98EF-B0FFAA94D747}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68414208-4EAD-493E-B611-7AD4C0E9D0E5}
+	EndGlobalSection
+EndGlobal

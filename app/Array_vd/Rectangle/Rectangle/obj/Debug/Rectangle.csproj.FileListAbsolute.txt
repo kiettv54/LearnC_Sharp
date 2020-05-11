@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\Array_vd\Rectangle\Rectangle\bin\Debug\Rectangle.exe.config
+D:\110117074\c_sharp\Array_vd\Rectangle\Rectangle\bin\Debug\Rectangle.exe
+D:\110117074\c_sharp\Array_vd\Rectangle\Rectangle\bin\Debug\Rectangle.pdb
+D:\110117074\c_sharp\Array_vd\Rectangle\Rectangle\obj\Debug\Rectangle.csprojAssemblyReference.cache
+D:\110117074\c_sharp\Array_vd\Rectangle\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\Array_vd\Rectangle\Rectangle\obj\Debug\Rectangle.exe
+D:\110117074\c_sharp\Array_vd\Rectangle\Rectangle\obj\Debug\Rectangle.pdb

@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\calculator\calculator\bin\Debug\calculator.exe.config
+D:\110117074\c_sharp\calculator\calculator\bin\Debug\calculator.exe
+D:\110117074\c_sharp\calculator\calculator\bin\Debug\calculator.pdb
+D:\110117074\c_sharp\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+D:\110117074\c_sharp\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\calculator\calculator\obj\Debug\calculator.exe
+D:\110117074\c_sharp\calculator\calculator\obj\Debug\calculator.pdb

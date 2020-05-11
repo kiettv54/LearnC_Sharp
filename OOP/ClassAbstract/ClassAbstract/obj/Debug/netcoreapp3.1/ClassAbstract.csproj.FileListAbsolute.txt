@@ -1,0 +1,13 @@
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.exe
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.deps.json
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.runtimeconfig.json
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.runtimeconfig.dev.json
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.dll
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\bin\Debug\netcoreapp3.1\ClassAbstract.pdb
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.csprojAssemblyReference.cache
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.csproj.CoreCompileInputs.cache
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.AssemblyInfoInputs.cache
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.AssemblyInfo.cs
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.dll
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.pdb
+D:\c_sharp\OOP\ClassAbstract\ClassAbstract\obj\Debug\netcoreapp3.1\ClassAbstract.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\bin\Debug\netcoreapp3.1\BitArray_Csharp.exe
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\bin\Debug\netcoreapp3.1\BitArray_Csharp.deps.json
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\bin\Debug\netcoreapp3.1\BitArray_Csharp.runtimeconfig.json
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\bin\Debug\netcoreapp3.1\BitArray_Csharp.runtimeconfig.dev.json
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\bin\Debug\netcoreapp3.1\BitArray_Csharp.dll
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\bin\Debug\netcoreapp3.1\BitArray_Csharp.pdb
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\obj\Debug\netcoreapp3.1\BitArray_Csharp.csprojAssemblyReference.cache
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\obj\Debug\netcoreapp3.1\BitArray_Csharp.csproj.CoreCompileInputs.cache
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\obj\Debug\netcoreapp3.1\BitArray_Csharp.AssemblyInfoInputs.cache
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\obj\Debug\netcoreapp3.1\BitArray_Csharp.AssemblyInfo.cs
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\obj\Debug\netcoreapp3.1\BitArray_Csharp.dll
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\obj\Debug\netcoreapp3.1\BitArray_Csharp.pdb
+D:\c_sharp\C_Sharp_Advanced\BitArray_Csharp\BitArray_Csharp\obj\Debug\netcoreapp3.1\BitArray_Csharp.genruntimeconfig.cache

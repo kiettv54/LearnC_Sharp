@@ -1,0 +1,11 @@
+D:\110117074\c_sharp\HocToantu\HocToantu\bin\Debug\netcoreapp2.1\HocToantu.deps.json
+D:\110117074\c_sharp\HocToantu\HocToantu\bin\Debug\netcoreapp2.1\HocToantu.runtimeconfig.json
+D:\110117074\c_sharp\HocToantu\HocToantu\bin\Debug\netcoreapp2.1\HocToantu.runtimeconfig.dev.json
+D:\110117074\c_sharp\HocToantu\HocToantu\bin\Debug\netcoreapp2.1\HocToantu.dll
+D:\110117074\c_sharp\HocToantu\HocToantu\bin\Debug\netcoreapp2.1\HocToantu.pdb
+D:\110117074\c_sharp\HocToantu\HocToantu\obj\Debug\netcoreapp2.1\HocToantu.csprojAssemblyReference.cache
+D:\110117074\c_sharp\HocToantu\HocToantu\obj\Debug\netcoreapp2.1\HocToantu.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\HocToantu\HocToantu\obj\Debug\netcoreapp2.1\HocToantu.AssemblyInfoInputs.cache
+D:\110117074\c_sharp\HocToantu\HocToantu\obj\Debug\netcoreapp2.1\HocToantu.AssemblyInfo.cs
+D:\110117074\c_sharp\HocToantu\HocToantu\obj\Debug\netcoreapp2.1\HocToantu.dll
+D:\110117074\c_sharp\HocToantu\HocToantu\obj\Debug\netcoreapp2.1\HocToantu.pdb

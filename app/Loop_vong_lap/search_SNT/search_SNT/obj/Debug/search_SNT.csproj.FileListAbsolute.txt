@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\Loop_vong_lap\search_SNT\search_SNT\obj\Debug\search_SNT.csprojAssemblyReference.cache
+D:\110117074\c_sharp\Loop_vong_lap\search_SNT\search_SNT\obj\Debug\search_SNT.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\Loop_vong_lap\search_SNT\search_SNT\bin\Debug\search_SNT.exe.config
+D:\110117074\c_sharp\Loop_vong_lap\search_SNT\search_SNT\bin\Debug\search_SNT.exe
+D:\110117074\c_sharp\Loop_vong_lap\search_SNT\search_SNT\bin\Debug\search_SNT.pdb
+D:\110117074\c_sharp\Loop_vong_lap\search_SNT\search_SNT\obj\Debug\search_SNT.exe
+D:\110117074\c_sharp\Loop_vong_lap\search_SNT\search_SNT\obj\Debug\search_SNT.pdb

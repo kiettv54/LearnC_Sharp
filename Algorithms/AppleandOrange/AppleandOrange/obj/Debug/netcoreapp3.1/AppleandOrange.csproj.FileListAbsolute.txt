@@ -1,0 +1,13 @@
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\bin\Debug\netcoreapp3.1\AppleandOrange.exe
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\bin\Debug\netcoreapp3.1\AppleandOrange.deps.json
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\bin\Debug\netcoreapp3.1\AppleandOrange.runtimeconfig.json
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\bin\Debug\netcoreapp3.1\AppleandOrange.runtimeconfig.dev.json
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\bin\Debug\netcoreapp3.1\AppleandOrange.dll
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\bin\Debug\netcoreapp3.1\AppleandOrange.pdb
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\obj\Debug\netcoreapp3.1\AppleandOrange.csprojAssemblyReference.cache
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\obj\Debug\netcoreapp3.1\AppleandOrange.csproj.CoreCompileInputs.cache
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\obj\Debug\netcoreapp3.1\AppleandOrange.AssemblyInfoInputs.cache
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\obj\Debug\netcoreapp3.1\AppleandOrange.AssemblyInfo.cs
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\obj\Debug\netcoreapp3.1\AppleandOrange.dll
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\obj\Debug\netcoreapp3.1\AppleandOrange.pdb
+D:\c_sharp\Algorithms\AppleandOrange\AppleandOrange\obj\Debug\netcoreapp3.1\AppleandOrange.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\diemsv\diemsv\obj\Debug\diemsv.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\diemsv\diemsv\bin\Debug\diemsv.exe.config
+C:\Users\Administrator\source\repos\diemsv\diemsv\bin\Debug\diemsv.exe
+C:\Users\Administrator\source\repos\diemsv\diemsv\bin\Debug\diemsv.pdb
+C:\Users\Administrator\source\repos\diemsv\diemsv\obj\Debug\diemsv.exe
+C:\Users\Administrator\source\repos\diemsv\diemsv\obj\Debug\diemsv.pdb
+C:\Users\Administrator\source\repos\diemsv\diemsv\obj\Debug\diemsv.csprojAssemblyReference.cache

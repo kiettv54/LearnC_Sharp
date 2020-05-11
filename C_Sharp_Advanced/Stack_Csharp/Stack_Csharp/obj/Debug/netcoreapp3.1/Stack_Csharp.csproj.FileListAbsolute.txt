@@ -1,0 +1,13 @@
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\bin\Debug\netcoreapp3.1\Stack_Csharp.exe
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\bin\Debug\netcoreapp3.1\Stack_Csharp.deps.json
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\bin\Debug\netcoreapp3.1\Stack_Csharp.runtimeconfig.json
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\bin\Debug\netcoreapp3.1\Stack_Csharp.runtimeconfig.dev.json
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\bin\Debug\netcoreapp3.1\Stack_Csharp.dll
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\bin\Debug\netcoreapp3.1\Stack_Csharp.pdb
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\obj\Debug\netcoreapp3.1\Stack_Csharp.csprojAssemblyReference.cache
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\obj\Debug\netcoreapp3.1\Stack_Csharp.csproj.CoreCompileInputs.cache
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\obj\Debug\netcoreapp3.1\Stack_Csharp.AssemblyInfoInputs.cache
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\obj\Debug\netcoreapp3.1\Stack_Csharp.AssemblyInfo.cs
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\obj\Debug\netcoreapp3.1\Stack_Csharp.dll
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\obj\Debug\netcoreapp3.1\Stack_Csharp.pdb
+D:\c_sharp\C_Sharp_Advanced\Stack_Csharp\Stack_Csharp\obj\Debug\netcoreapp3.1\Stack_Csharp.genruntimeconfig.cache

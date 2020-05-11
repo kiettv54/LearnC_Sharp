@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\Loop_vong_lap\giai_thua\giai_thua\obj\Debug\giai_thua.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\Loop_vong_lap\giai_thua\giai_thua\bin\Debug\giai_thua.exe.config
+D:\110117074\c_sharp\Loop_vong_lap\giai_thua\giai_thua\bin\Debug\giai_thua.exe
+D:\110117074\c_sharp\Loop_vong_lap\giai_thua\giai_thua\bin\Debug\giai_thua.pdb
+D:\110117074\c_sharp\Loop_vong_lap\giai_thua\giai_thua\obj\Debug\giai_thua.exe
+D:\110117074\c_sharp\Loop_vong_lap\giai_thua\giai_thua\obj\Debug\giai_thua.pdb
+D:\110117074\c_sharp\Loop_vong_lap\giai_thua\giai_thua\obj\Debug\giai_thua.csprojAssemblyReference.cache

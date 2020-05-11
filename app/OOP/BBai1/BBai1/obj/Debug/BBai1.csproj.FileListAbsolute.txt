@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\OOP\BBai1\BBai1\bin\Debug\BBai1.exe.config
+D:\110117074\c_sharp\OOP\BBai1\BBai1\bin\Debug\BBai1.exe
+D:\110117074\c_sharp\OOP\BBai1\BBai1\bin\Debug\BBai1.pdb
+D:\110117074\c_sharp\OOP\BBai1\BBai1\obj\Debug\BBai1.csprojAssemblyReference.cache
+D:\110117074\c_sharp\OOP\BBai1\BBai1\obj\Debug\BBai1.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\OOP\BBai1\BBai1\obj\Debug\BBai1.exe
+D:\110117074\c_sharp\OOP\BBai1\BBai1\obj\Debug\BBai1.pdb

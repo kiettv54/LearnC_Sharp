@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\CanBacHai\CanBacHai\bin\Debug\CanBacHai.exe.config
+D:\110117074\c_sharp\CanBacHai\CanBacHai\bin\Debug\CanBacHai.exe
+D:\110117074\c_sharp\CanBacHai\CanBacHai\bin\Debug\CanBacHai.pdb
+D:\110117074\c_sharp\CanBacHai\CanBacHai\obj\Debug\CanBacHai.csprojAssemblyReference.cache
+D:\110117074\c_sharp\CanBacHai\CanBacHai\obj\Debug\CanBacHai.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\CanBacHai\CanBacHai\obj\Debug\CanBacHai.exe
+D:\110117074\c_sharp\CanBacHai\CanBacHai\obj\Debug\CanBacHai.pdb

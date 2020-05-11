@@ -1,0 +1,11 @@
+D:\110117074\c_sharp\bt\bt\bin\Debug\netcoreapp3.1\bt.exe
+D:\110117074\c_sharp\bt\bt\bin\Debug\netcoreapp3.1\bt.deps.json
+D:\110117074\c_sharp\bt\bt\bin\Debug\netcoreapp3.1\bt.runtimeconfig.json
+D:\110117074\c_sharp\bt\bt\bin\Debug\netcoreapp3.1\bt.runtimeconfig.dev.json
+D:\110117074\c_sharp\bt\bt\bin\Debug\netcoreapp3.1\bt.dll
+D:\110117074\c_sharp\bt\bt\bin\Debug\netcoreapp3.1\bt.pdb
+D:\110117074\c_sharp\bt\bt\obj\Debug\netcoreapp3.1\bt.csprojAssemblyReference.cache
+D:\110117074\c_sharp\bt\bt\obj\Debug\netcoreapp3.1\bt.AssemblyInfoInputs.cache
+D:\110117074\c_sharp\bt\bt\obj\Debug\netcoreapp3.1\bt.AssemblyInfo.cs
+D:\110117074\c_sharp\bt\bt\obj\Debug\netcoreapp3.1\bt.dll
+D:\110117074\c_sharp\bt\bt\obj\Debug\netcoreapp3.1\bt.pdb

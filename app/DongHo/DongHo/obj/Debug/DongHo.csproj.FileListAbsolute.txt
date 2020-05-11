@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\DongHo\DongHo\bin\Debug\DongHo.exe.config
+D:\110117074\c_sharp\DongHo\DongHo\bin\Debug\DongHo.exe
+D:\110117074\c_sharp\DongHo\DongHo\bin\Debug\DongHo.pdb
+D:\110117074\c_sharp\DongHo\DongHo\obj\Debug\DongHo.csprojAssemblyReference.cache
+D:\110117074\c_sharp\DongHo\DongHo\obj\Debug\DongHo.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\DongHo\DongHo\obj\Debug\DongHo.exe
+D:\110117074\c_sharp\DongHo\DongHo\obj\Debug\DongHo.pdb

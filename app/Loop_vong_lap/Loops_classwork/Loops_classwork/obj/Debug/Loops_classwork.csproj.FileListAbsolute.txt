@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\Loops_classwork\Loops_classwork\obj\Debug\Loops_classwork.csprojAssemblyReference.cache
+D:\110117074\c_sharp\Loops_classwork\Loops_classwork\obj\Debug\Loops_classwork.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\Loops_classwork\Loops_classwork\bin\Debug\Loops_classwork.exe.config
+D:\110117074\c_sharp\Loops_classwork\Loops_classwork\bin\Debug\Loops_classwork.exe
+D:\110117074\c_sharp\Loops_classwork\Loops_classwork\bin\Debug\Loops_classwork.pdb
+D:\110117074\c_sharp\Loops_classwork\Loops_classwork\obj\Debug\Loops_classwork.exe
+D:\110117074\c_sharp\Loops_classwork\Loops_classwork\obj\Debug\Loops_classwork.pdb

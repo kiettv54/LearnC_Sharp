@@ -1,0 +1,11 @@
+D:\110117074\c_sharp\Bamketnoi\Bamketnoi\bin\Debug\netcoreapp2.1\Bamketnoi.deps.json
+D:\110117074\c_sharp\Bamketnoi\Bamketnoi\bin\Debug\netcoreapp2.1\Bamketnoi.runtimeconfig.json
+D:\110117074\c_sharp\Bamketnoi\Bamketnoi\bin\Debug\netcoreapp2.1\Bamketnoi.runtimeconfig.dev.json
+D:\110117074\c_sharp\Bamketnoi\Bamketnoi\bin\Debug\netcoreapp2.1\Bamketnoi.dll
+D:\110117074\c_sharp\Bamketnoi\Bamketnoi\bin\Debug\netcoreapp2.1\Bamketnoi.pdb
+D:\110117074\c_sharp\Bamketnoi\Bamketnoi\obj\Debug\netcoreapp2.1\Bamketnoi.csprojAssemblyReference.cache
+D:\110117074\c_sharp\Bamketnoi\Bamketnoi\obj\Debug\netcoreapp2.1\Bamketnoi.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\Bamketnoi\Bamketnoi\obj\Debug\netcoreapp2.1\Bamketnoi.AssemblyInfoInputs.cache
+D:\110117074\c_sharp\Bamketnoi\Bamketnoi\obj\Debug\netcoreapp2.1\Bamketnoi.AssemblyInfo.cs
+D:\110117074\c_sharp\Bamketnoi\Bamketnoi\obj\Debug\netcoreapp2.1\Bamketnoi.dll
+D:\110117074\c_sharp\Bamketnoi\Bamketnoi\obj\Debug\netcoreapp2.1\Bamketnoi.pdb

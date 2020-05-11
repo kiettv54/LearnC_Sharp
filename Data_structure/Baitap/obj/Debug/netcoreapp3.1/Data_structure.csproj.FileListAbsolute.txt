@@ -1,0 +1,13 @@
+D:\c_sharp\Data_structure\Baitap\bin\Debug\netcoreapp3.1\Data_structure.exe
+D:\c_sharp\Data_structure\Baitap\bin\Debug\netcoreapp3.1\Data_structure.deps.json
+D:\c_sharp\Data_structure\Baitap\bin\Debug\netcoreapp3.1\Data_structure.runtimeconfig.json
+D:\c_sharp\Data_structure\Baitap\bin\Debug\netcoreapp3.1\Data_structure.runtimeconfig.dev.json
+D:\c_sharp\Data_structure\Baitap\bin\Debug\netcoreapp3.1\Data_structure.dll
+D:\c_sharp\Data_structure\Baitap\bin\Debug\netcoreapp3.1\Data_structure.pdb
+D:\c_sharp\Data_structure\Baitap\obj\Debug\netcoreapp3.1\Data_structure.csprojAssemblyReference.cache
+D:\c_sharp\Data_structure\Baitap\obj\Debug\netcoreapp3.1\Data_structure.csproj.CoreCompileInputs.cache
+D:\c_sharp\Data_structure\Baitap\obj\Debug\netcoreapp3.1\Data_structure.AssemblyInfoInputs.cache
+D:\c_sharp\Data_structure\Baitap\obj\Debug\netcoreapp3.1\Data_structure.AssemblyInfo.cs
+D:\c_sharp\Data_structure\Baitap\obj\Debug\netcoreapp3.1\Data_structure.dll
+D:\c_sharp\Data_structure\Baitap\obj\Debug\netcoreapp3.1\Data_structure.pdb
+D:\c_sharp\Data_structure\Baitap\obj\Debug\netcoreapp3.1\Data_structure.genruntimeconfig.cache

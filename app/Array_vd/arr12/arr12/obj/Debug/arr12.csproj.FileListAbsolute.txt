@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\arr12\arr12\obj\Debug\arr12.csprojAssemblyReference.cache
+D:\110117074\c_sharp\arr12\arr12\obj\Debug\arr12.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\arr12\arr12\bin\Debug\arr12.exe.config
+D:\110117074\c_sharp\arr12\arr12\bin\Debug\arr12.exe
+D:\110117074\c_sharp\arr12\arr12\bin\Debug\arr12.pdb
+D:\110117074\c_sharp\arr12\arr12\obj\Debug\arr12.exe
+D:\110117074\c_sharp\arr12\arr12\obj\Debug\arr12.pdb

@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\Array_vd\soxo\soxo\bin\Debug\soxo.exe.config
+D:\110117074\c_sharp\Array_vd\soxo\soxo\bin\Debug\soxo.exe
+D:\110117074\c_sharp\Array_vd\soxo\soxo\bin\Debug\soxo.pdb
+D:\110117074\c_sharp\Array_vd\soxo\soxo\obj\Debug\soxo.csprojAssemblyReference.cache
+D:\110117074\c_sharp\Array_vd\soxo\soxo\obj\Debug\soxo.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\Array_vd\soxo\soxo\obj\Debug\soxo.exe
+D:\110117074\c_sharp\Array_vd\soxo\soxo\obj\Debug\soxo.pdb

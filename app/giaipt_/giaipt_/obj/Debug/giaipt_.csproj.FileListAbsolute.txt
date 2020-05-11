@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\giaipt_\giaipt_\obj\Debug\giaipt_.csprojAssemblyReference.cache
+D:\110117074\c_sharp\giaipt_\giaipt_\obj\Debug\giaipt_.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\giaipt_\giaipt_\bin\Debug\giaipt_.exe.config
+D:\110117074\c_sharp\giaipt_\giaipt_\bin\Debug\giaipt_.exe
+D:\110117074\c_sharp\giaipt_\giaipt_\bin\Debug\giaipt_.pdb
+D:\110117074\c_sharp\giaipt_\giaipt_\obj\Debug\giaipt_.exe
+D:\110117074\c_sharp\giaipt_\giaipt_\obj\Debug\giaipt_.pdb

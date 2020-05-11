@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\hackerrank\Diagonal_Difference\Diagonal_Difference\bin\Debug\Diagonal_Difference.exe.config
+D:\110117074\c_sharp\hackerrank\Diagonal_Difference\Diagonal_Difference\bin\Debug\Diagonal_Difference.exe
+D:\110117074\c_sharp\hackerrank\Diagonal_Difference\Diagonal_Difference\bin\Debug\Diagonal_Difference.pdb
+D:\110117074\c_sharp\hackerrank\Diagonal_Difference\Diagonal_Difference\obj\Debug\Diagonal_Difference.csprojAssemblyReference.cache
+D:\110117074\c_sharp\hackerrank\Diagonal_Difference\Diagonal_Difference\obj\Debug\Diagonal_Difference.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\hackerrank\Diagonal_Difference\Diagonal_Difference\obj\Debug\Diagonal_Difference.exe
+D:\110117074\c_sharp\hackerrank\Diagonal_Difference\Diagonal_Difference\obj\Debug\Diagonal_Difference.pdb

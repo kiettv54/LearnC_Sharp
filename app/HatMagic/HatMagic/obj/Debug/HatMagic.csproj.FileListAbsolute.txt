@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\HatMagic\HatMagic\obj\Debug\HatMagic.csprojAssemblyReference.cache
+D:\110117074\c_sharp\HatMagic\HatMagic\obj\Debug\HatMagic.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\HatMagic\HatMagic\bin\Debug\HatMagic.exe.config
+D:\110117074\c_sharp\HatMagic\HatMagic\bin\Debug\HatMagic.exe
+D:\110117074\c_sharp\HatMagic\HatMagic\bin\Debug\HatMagic.pdb
+D:\110117074\c_sharp\HatMagic\HatMagic\obj\Debug\HatMagic.exe
+D:\110117074\c_sharp\HatMagic\HatMagic\obj\Debug\HatMagic.pdb

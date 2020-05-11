@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HashTable_Cshap/1.0.0": {
+        "runtime": {
+          "HashTable_Cshap.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HashTable_Cshap/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

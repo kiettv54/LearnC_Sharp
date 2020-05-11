@@ -1,0 +1,4 @@
+D:\c_sharp\C_Sharp_Advanced\Generic_Csharp\Generic_Csharp\bin\Debug\netcoreapp3.1\Generic_Csharp.exe
+D:\c_sharp\C_Sharp_Advanced\Generic_Csharp\Generic_Csharp\obj\Debug\netcoreapp3.1\Generic_Csharp.csprojAssemblyReference.cache
+D:\c_sharp\C_Sharp_Advanced\Generic_Csharp\Generic_Csharp\obj\Debug\netcoreapp3.1\Generic_Csharp.AssemblyInfoInputs.cache
+D:\c_sharp\C_Sharp_Advanced\Generic_Csharp\Generic_Csharp\obj\Debug\netcoreapp3.1\Generic_Csharp.AssemblyInfo.cs

@@ -1,0 +1,13 @@
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\bin\Debug\netcoreapp3.1\ArrayList_CSharp.exe
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\bin\Debug\netcoreapp3.1\ArrayList_CSharp.deps.json
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\bin\Debug\netcoreapp3.1\ArrayList_CSharp.runtimeconfig.json
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\bin\Debug\netcoreapp3.1\ArrayList_CSharp.runtimeconfig.dev.json
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\bin\Debug\netcoreapp3.1\ArrayList_CSharp.dll
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\bin\Debug\netcoreapp3.1\ArrayList_CSharp.pdb
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\obj\Debug\netcoreapp3.1\ArrayList_CSharp.csprojAssemblyReference.cache
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\obj\Debug\netcoreapp3.1\ArrayList_CSharp.csproj.CoreCompileInputs.cache
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\obj\Debug\netcoreapp3.1\ArrayList_CSharp.AssemblyInfoInputs.cache
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\obj\Debug\netcoreapp3.1\ArrayList_CSharp.AssemblyInfo.cs
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\obj\Debug\netcoreapp3.1\ArrayList_CSharp.dll
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\obj\Debug\netcoreapp3.1\ArrayList_CSharp.pdb
+D:\c_sharp\C_Sharp_Advanced\ArrayList_CSharp\ArrayList_CSharp\obj\Debug\netcoreapp3.1\ArrayList_CSharp.genruntimeconfig.cache

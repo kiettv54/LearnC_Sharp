@@ -1,0 +1,7 @@
+D:\110117074\c_sharp\QL_SV\QL_SV\obj\Debug\QL_SV.csprojAssemblyReference.cache
+D:\110117074\c_sharp\QL_SV\QL_SV\obj\Debug\QL_SV.csproj.CoreCompileInputs.cache
+D:\110117074\c_sharp\QL_SV\QL_SV\bin\Debug\QL_SV.exe.config
+D:\110117074\c_sharp\QL_SV\QL_SV\bin\Debug\QL_SV.exe
+D:\110117074\c_sharp\QL_SV\QL_SV\bin\Debug\QL_SV.pdb
+D:\110117074\c_sharp\QL_SV\QL_SV\obj\Debug\QL_SV.exe
+D:\110117074\c_sharp\QL_SV\QL_SV\obj\Debug\QL_SV.pdb

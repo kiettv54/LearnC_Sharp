@@ -1,0 +1,13 @@
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\bin\Debug\netcoreapp3.1\Queue_Csharp.exe
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\bin\Debug\netcoreapp3.1\Queue_Csharp.deps.json
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\bin\Debug\netcoreapp3.1\Queue_Csharp.runtimeconfig.json
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\bin\Debug\netcoreapp3.1\Queue_Csharp.runtimeconfig.dev.json
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\bin\Debug\netcoreapp3.1\Queue_Csharp.dll
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\bin\Debug\netcoreapp3.1\Queue_Csharp.pdb
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\obj\Debug\netcoreapp3.1\Queue_Csharp.csprojAssemblyReference.cache
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\obj\Debug\netcoreapp3.1\Queue_Csharp.csproj.CoreCompileInputs.cache
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\obj\Debug\netcoreapp3.1\Queue_Csharp.AssemblyInfoInputs.cache
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\obj\Debug\netcoreapp3.1\Queue_Csharp.AssemblyInfo.cs
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\obj\Debug\netcoreapp3.1\Queue_Csharp.dll
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\obj\Debug\netcoreapp3.1\Queue_Csharp.pdb
+D:\c_sharp\C_Sharp_Advanced\Queue_Csharp\Queue_Csharp\obj\Debug\netcoreapp3.1\Queue_Csharp.genruntimeconfig.cache
