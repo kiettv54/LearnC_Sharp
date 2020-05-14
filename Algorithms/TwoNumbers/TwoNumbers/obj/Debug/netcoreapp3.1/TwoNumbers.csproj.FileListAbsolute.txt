@@ -1,0 +1,13 @@
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.exe
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.deps.json
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.runtimeconfig.json
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.runtimeconfig.dev.json
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.dll
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\bin\Debug\netcoreapp3.1\TwoNumbers.pdb
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.csprojAssemblyReference.cache
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.csproj.CoreCompileInputs.cache
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.AssemblyInfoInputs.cache
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.AssemblyInfo.cs
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.dll
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.pdb
+D:\c_sharp\Algorithms\TwoNumbers\TwoNumbers\obj\Debug\netcoreapp3.1\TwoNumbers.genruntimeconfig.cache

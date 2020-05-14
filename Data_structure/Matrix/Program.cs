@@ -9,7 +9,7 @@ namespace Matrix
     {
         static void Main(string[] args)
         {
-            int m=3,n=4;
+            int m=0,n=0;
             int[,] arr;
             int start = 0;
             Process process = new Process();

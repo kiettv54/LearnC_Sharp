@@ -1,0 +1,13 @@
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\bin\Debug\netcoreapp3.1\Dictionary_Csharp.exe
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\bin\Debug\netcoreapp3.1\Dictionary_Csharp.deps.json
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\bin\Debug\netcoreapp3.1\Dictionary_Csharp.runtimeconfig.json
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\bin\Debug\netcoreapp3.1\Dictionary_Csharp.runtimeconfig.dev.json
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\bin\Debug\netcoreapp3.1\Dictionary_Csharp.dll
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\bin\Debug\netcoreapp3.1\Dictionary_Csharp.pdb
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\obj\Debug\netcoreapp3.1\Dictionary_Csharp.csprojAssemblyReference.cache
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\obj\Debug\netcoreapp3.1\Dictionary_Csharp.csproj.CoreCompileInputs.cache
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\obj\Debug\netcoreapp3.1\Dictionary_Csharp.AssemblyInfoInputs.cache
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\obj\Debug\netcoreapp3.1\Dictionary_Csharp.AssemblyInfo.cs
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\obj\Debug\netcoreapp3.1\Dictionary_Csharp.dll
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\obj\Debug\netcoreapp3.1\Dictionary_Csharp.pdb
+D:\c_sharp\C_Sharp_Advanced\Dictionary_Csharp\Dictionary_Csharp\obj\Debug\netcoreapp3.1\Dictionary_Csharp.genruntimeconfig.cache
