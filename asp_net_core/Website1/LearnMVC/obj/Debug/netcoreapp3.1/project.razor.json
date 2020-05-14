@@ -20531,18 +20531,8 @@
       "FileKind": "mvc"
     },
     {
-      "FilePath": "d:\\c_sharp\\asp_net_core\\Website1\\LearnMVC\\Views\\HelloWorld\\Index.cshtml",
-      "TargetPath": "Views\\HelloWorld\\Index.cshtml",
-      "FileKind": "mvc"
-    },
-    {
       "FilePath": "d:\\c_sharp\\asp_net_core\\Website1\\LearnMVC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "d:\\c_sharp\\asp_net_core\\Website1\\LearnMVC\\Views\\HelloWorld\\Welcome.cshtml",
-      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
       "FileKind": "mvc"
     },
     {
