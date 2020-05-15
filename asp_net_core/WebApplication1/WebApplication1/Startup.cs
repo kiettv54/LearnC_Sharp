@@ -51,17 +51,22 @@ namespace WebApplication1
 				// The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
 				app.UseHsts();
 			}
-			app.Use(async (context, next) =>
-			{
-				//using file appsettings.json, call value of Message in appsettings.json
-			//	await context.Response.WriteAsync(Configuration.GetSection(key:"Message").Value);
-				//read key child
-				await context.Response.WriteAsync(Configuration.GetSection(key: "ConnectionStrings:SQLServerConnectionString").Value);
-				//create Array of Students in appsetting.json and get data 
-			//	await context.Response.WriteAsync(Configuration.GetSection(key: "Students:0:Name").Value + "<br>");
-				//await next.Invoke();
-			}
-			);
+			//How to use Static Files
+			app.UseStaticFiles();
+			//app.Use(async (context, next) =>
+			//{
+			//	//using file appsettings.json, call value of Message in appsettings.json
+			//	//	await context.Response.WriteAsync(Configuration.GetSection(key:"Message").Value);
+			//	//read key child
+			//	//await context.Response.WriteAsync(Configuration.GetSection(key: "ConnectionStrings:SQLServerConnectionString").Value);
+			//	////create Array of Students in appsetting.json and get data 
+			//	////input Arg1 if you use cmd in document
+			//	//await context.Response.WriteAsync(Configuration.GetSection(key: "Arg1").Value);
+			//	///You can Read path of project
+			//	//await context.Response.WriteAsync(Configuration.GetSection(key: "PATH").Value);
+			//	//await next.Invoke();
+			//}
+			//);
 			///MiddleWare using class 
 			///app.UseMiddleWare<MiddleWare>();
 			app.UseSimpleMiddleWare();

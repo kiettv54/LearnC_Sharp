@@ -40,6 +40,13 @@ namespace WebApplication1
 					}
 				}
 				config.AddEnvironmentVariables();
+				/*
+				 You can use CMD run program
+				 step 1: Open project in document 
+				 step 2:open cmd
+				 step3:dotnet run Arg1 =Hello (You can change Hello with everything)
+				 
+				 */
 				if (args != null)
 				{
 					config.AddCommandLine(args);
