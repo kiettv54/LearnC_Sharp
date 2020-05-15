@@ -16,6 +16,7 @@ namespace WebApplication1
 {
 	public class Startup
 	{
+		//using appsettings.json
 		public Startup(IConfiguration configuration)
 		{
 			Configuration = configuration;
@@ -52,8 +53,13 @@ namespace WebApplication1
 			}
 			app.Use(async (context, next) =>
 			{
-				await context.Response.WriteAsync(text: "<div>Hello world</div>");
-				await next.Invoke();
+				//using file appsettings.json, call value of Message in appsettings.json
+			//	await context.Response.WriteAsync(Configuration.GetSection(key:"Message").Value);
+				//read key child
+				await context.Response.WriteAsync(Configuration.GetSection(key: "ConnectionStrings:SQLServerConnectionString").Value);
+				//create Array of Students in appsetting.json and get data 
+			//	await context.Response.WriteAsync(Configuration.GetSection(key: "Students:0:Name").Value + "<br>");
+				//await next.Invoke();
 			}
 			);
 			///MiddleWare using class 

@@ -32,3 +32,4 @@ D:\c_sharp\asp_net_core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\
 D:\c_sharp\asp_net_core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.genruntimeconfig.cache
 D:\c_sharp\asp_net_core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csproj.CopyComplete
 D:\c_sharp\asp_net_core\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.2\WebApplication1.csprojAssemblyReference.cache
+D:\c_sharp\asp_net_core\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.2\appsettings.Production.json
