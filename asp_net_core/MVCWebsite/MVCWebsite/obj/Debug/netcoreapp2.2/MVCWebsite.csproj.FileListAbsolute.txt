@@ -25,3 +25,5 @@ D:\c_sharp\asp_net_core\MVCWebsite\MVCWebsite\obj\Debug\netcoreapp2.2\Razor\View
 D:\c_sharp\asp_net_core\MVCWebsite\MVCWebsite\obj\Debug\netcoreapp2.2\MVCWebsite.RazorTargetAssemblyInfo.cs
 D:\c_sharp\asp_net_core\MVCWebsite\MVCWebsite\obj\Debug\netcoreapp2.2\MVCWebsite.Views.pdb
 D:\c_sharp\asp_net_core\MVCWebsite\MVCWebsite\obj\Debug\netcoreapp2.2\MVCWebsite.csproj.CopyComplete
+D:\c_sharp\asp_net_core\MVCWebsite\MVCWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Customer\Index.cshtml.g.cs
+D:\c_sharp\asp_net_core\MVCWebsite\MVCWebsite\obj\Debug\netcoreapp2.2\Razor\Views\Post\Index.cshtml.g.cs

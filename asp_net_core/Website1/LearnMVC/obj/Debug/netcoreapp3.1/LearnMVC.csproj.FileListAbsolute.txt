@@ -20,12 +20,6 @@ d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\LearnMVC.TagHe
 d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\LearnMVC.TagHelpers.output.cache
 d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\LearnMVC.RazorCoreGenerate.cache
 d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
-d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
-d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
-d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
-d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
-d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
-d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
 d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\LearnMVC.RazorTargetAssemblyInfo.cache
 d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\LearnMVC.RazorTargetAssemblyInfo.cs
 d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\LearnMVC.Views.pdb
@@ -35,3 +29,4 @@ d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\LearnMVC.dll
 d:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\LearnMVC.pdb
 D:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\LearnMVC.genruntimeconfig.cache
 D:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\LearnMVC.csproj.CopyComplete
+D:\c_sharp\asp_net_core\Website1\LearnMVC\obj\Debug\netcoreapp3.1\Razor\Views\Product\modify.cshtml.g.cs

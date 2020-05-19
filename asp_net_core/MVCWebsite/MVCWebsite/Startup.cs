@@ -5,6 +5,8 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Routing;
+using Microsoft.AspNetCore.Routing.Constraints;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace MVCWebsite
@@ -30,11 +32,36 @@ namespace MVCWebsite
 			//{
 			//	await context.Response.WriteAsync("Hello World!");
 			//});
-			app.UseMvcWithDefaultRoute();
+			//app.UseMvcWithDefaultRoute();
 			//You can use UseMvc or UseMvcWithDefaultRoute
-			//app.UseMvc(route=>{
-			//	route.MapRoute("default", "{controller=Home}/{action=Index}/{id?}");
-			//});
+			///khi client request url, routing sẽ hướng dẫn request này tìm đến controller thích hợp và method thích hợp trên controller đó,
+			///method này nếu return View(...) thì nó sẽ tìm đến tên file view cshtml thích hợp trên mục /View/Share, /View/Home hoặc /Pages gì đó, xong cần làm gì thì làm tiếp cái đó.
+			app.UseMvc(route =>
+			{
+				//route.MapRoute(name:"secure",template: "secure",defaults: new
+				//{
+				//	controller = "Admin",
+				//	action = "Index"
+				//});
+				//route.MapRoute("default", "{controller=Home}/{action=Index}/{id:int?}");
+
+				route.MapRoute("default", "{controller=Home}/{action=Index}/{id:alpha:minlength(6)?}");
+
+
+				//route.MapRoute("default", "{controller}/{action}/{id?}", new { controller = "Home", action = "Index" },
+				//	new {
+				//		id= new CompositeRouteConstraint(new IRouteConstraint[] { 
+				//		new AlphaRouteConstraint(),
+				//		new MinLengthRouteConstraint(6)
+				//		})
+
+				//	});
+				//route.MapRoute("default", 
+				//	"{controller}/{action}/{year:regex(^\\d{{4}}$)}", new { controller = "Home", action = "Index" });
+				//route.MapRoute("default", "post/{id:int}", new { controller = "Post", action = "PostByID" });
+				//route.MapRoute("anotherRoute", "post/{id:alpha}", new { controller = "Post", action = "PostByPastName" });
+
+			});
 		}
 	}
 }
