@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using LearnAsp.Models;
 
-
-namespace LearnMVC.Controllers
+namespace LearnAsp.Controllers
 {
     public class HomeController : Controller
     {
@@ -18,7 +18,12 @@ namespace LearnMVC.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index()=>View();
+        public IActionResult Index() => View();
        
+
+        public IActionResult Privacy() => View();
+
+        [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
+        public IActionResult Error() => View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
     }
 }
