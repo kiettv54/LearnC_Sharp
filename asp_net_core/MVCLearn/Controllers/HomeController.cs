@@ -5,9 +5,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using LearnAsp.Models;
+using MVCLearn.Models;
 
-namespace LearnAsp.Controllers
+namespace MVCLearn.Controllers
 {
     public class HomeController : Controller
     {
@@ -18,11 +18,22 @@ namespace LearnAsp.Controllers
             _logger = logger;
         }
 
-        public IActionResult Index() => View();
+        public IActionResult Index(int id)
+        {
+            var model = new IndexModel();
+            model.Message = "Hello from Model ,id :"+id;
+            return View(model);
+        }
 
-        public IActionResult Privacy() => View();
+        public IActionResult Privacy()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
-        public IActionResult Error() => View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        public IActionResult Error()
+        {
+            return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
+        }
     }
 }
