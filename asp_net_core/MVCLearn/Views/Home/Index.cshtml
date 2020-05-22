@@ -1,8 +1,58 @@
 @{
-    Layout = null;
+    ViewData["Title"] = "Learn ASP. net core MVC ";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    //When you use index with parameter id, you can use the code here<p>@Model.Message</p>-->
+
+}
+@{
+    //how to use Viewdata in Views
+    var product = ViewData["Product"] as ProductModel;
 }
 
 <div class="text-center">
     <h1 class="display-4">Welcome</h1>
-    <p>@Model.Message</p>
+    <p>Using ViewData</p>
+    <table class="table table-borderless">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Available</th>
+                <th>Price</th>
+                <th>Promotion Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>@product.Id</th>
+                <th>@product.Name</th>
+                <th>@product.Available</th>
+                <th>@product.Price</th>
+                <th>@product.PromotionPrice</th>
+            </tr>
+        </tbody>
+    </table>
+
+    <p>Using ViewBag</p>
+    <table class="table table-borderless">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>Available</th>
+                <th>Price</th>
+                <th>Promotion Price</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>@ViewBag.Product.Id</th>
+                <th>@ViewBag.Product.Name</th>
+                <th>@ViewBag.Product.Available</th>
+                <th>@ViewBag.Product.Price</th>
+                <th>@ViewBag.Product.PromotionPrice</th>
+            </tr>
+        </tbody>
+    </table>
+   
 </div>
