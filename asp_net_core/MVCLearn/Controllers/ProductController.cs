@@ -19,5 +19,25 @@ namespace MVCLearn.Controllers
             
             return View(products);
         }
+        [HttpGet]
+        public IActionResult Create(){
+            return View();
+        }
+        public IActionResult Index2(){
+           return View();
+        }
+        [HttpPost]
+        public IActionResult Create( ProductEditModel models){
+            string message = string.Empty;
+            if(ModelState.IsValid)
+            {
+                message = "Product:" + models.Name + ", Rate:"+ models.Rate + ", Rating:"+models.Rating;
+            }
+            else
+            {
+                message = "Falled to create the product. Please try again";
+            }
+            return Content(message);
+        }
     }
 }

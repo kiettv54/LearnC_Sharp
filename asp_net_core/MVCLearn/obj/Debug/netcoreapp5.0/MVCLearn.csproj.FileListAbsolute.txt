@@ -37,3 +37,5 @@ D:\c_sharp\asp_net_core\MVCLearn\obj\Debug\netcoreapp5.0\MVCLearn.genruntimeconf
 D:\c_sharp\asp_net_core\MVCLearn\obj\Debug\netcoreapp5.0\MVCLearn.csproj.CopyComplete
 D:\c_sharp\asp_net_core\MVCLearn\obj\Debug\netcoreapp5.0\Razor\Views\Product\Index.cshtml.g.cs
 D:\c_sharp\asp_net_core\MVCLearn\obj\Debug\netcoreapp5.0\Razor\Views\Customer\Index.cshtml.g.cs
+D:\c_sharp\asp_net_core\MVCLearn\obj\Debug\netcoreapp5.0\Razor\Views\Product\Create.cshtml.g.cs
+D:\c_sharp\asp_net_core\MVCLearn\obj\Debug\netcoreapp5.0\Razor\Views\Product\Index2.cshtml.g.cs
