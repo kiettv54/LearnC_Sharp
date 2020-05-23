@@ -1,0 +1,43 @@
+@using MVCLearn.Models
+@model Customer
+@{
+    ViewData["Title"]  = "pass data from controller to view";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+</head>
+<body>
+    
+<table>
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Address</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>@ViewBag.Customer.CustomerId</th>
+            <th>@ViewBag.Customer.Name</th>
+            <th>@ViewBag.Customer.Address</th>
+        </tr>
+    </tbody>
+   
+    <!--
+        @{
+            //Customer customer = ViewBag.Customer;
+            //Customer customer = ViewData.Model;
+             //<p>@Model.CustomerId</p>
+              //<p>@Model.Customer.Name</p> 
+             // <p>@Model.Customer.Address</p>
+        }
+    -->
+</table>
+</body>
+</html>

@@ -47,12 +47,16 @@ namespace MVCLearn
 
             app.UseAuthorization();
 
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapControllerRoute(
-                    name: "default",
-                    pattern: "{controller=Home}/{action=Index}");
-            });
+          app.UseEndpoints(endpoints=>{
+              endpoints.MapControllerRoute(
+                  name:"default",
+                  pattern:"{controller=Home}/{action=Index}"
+              );
+          });
+          
+           
+           
+           
         }
     }
 }
