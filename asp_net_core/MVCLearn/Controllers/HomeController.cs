@@ -18,13 +18,13 @@ namespace MVCLearn.Controllers
             _logger = logger;
         }
 
-       /*  public IActionResult Index(int id)
+        /*  public IActionResult Index(int id)
         {
             var model = new IndexModel();
             model.Message = "Hello from Home ,id :"+id;
            
             return View(model);
-        } */
+        }  */
         public IActionResult Index(){
             //using Viewdata
              ViewData["Product"] = new ProductModel(){Id = 1,Name = "Nam", Available =true, Price = 10000,PromotionPrice = 8000};

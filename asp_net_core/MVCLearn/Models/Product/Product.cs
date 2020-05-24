@@ -1,4 +1,5 @@
-
+using System;
+using System.ComponentModel.DataAnnotations;
 namespace MVCLearn.Models
 {
     public class Product
@@ -7,7 +8,5 @@ namespace MVCLearn.Models
        public string Name { get; set; }
        public int Rate { get; set; }
        public int Rating { get; set; }
-     
-        
     }
 }

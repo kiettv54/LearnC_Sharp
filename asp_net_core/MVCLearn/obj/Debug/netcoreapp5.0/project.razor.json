@@ -20561,6 +20561,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\c_sharp\\asp_net_core\\MVCLearn\\Views\\Product\\FormAndQuery.cshtml",
+      "TargetPath": "Views\\Product\\FormAndQuery.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\c_sharp\\asp_net_core\\MVCLearn\\Views\\Customer\\Index.cshtml",
       "TargetPath": "Views\\Customer\\Index.cshtml",
       "FileKind": "mvc"
