@@ -1,0 +1,9 @@
+D:\c_sharp\DISample\DISample.Services\bin\Debug\netstandard2.0\DISample.Services.deps.json
+D:\c_sharp\DISample\DISample.Services\bin\Debug\netstandard2.0\DISample.Services.dll
+D:\c_sharp\DISample\DISample.Services\bin\Debug\netstandard2.0\DISample.Services.pdb
+D:\c_sharp\DISample\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.csprojAssemblyReference.cache
+D:\c_sharp\DISample\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.AssemblyInfoInputs.cache
+D:\c_sharp\DISample\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.AssemblyInfo.cs
+D:\c_sharp\DISample\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.csproj.CoreCompileInputs.cache
+D:\c_sharp\DISample\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.dll
+D:\c_sharp\DISample\DISample.Services\obj\Debug\netstandard2.0\DISample.Services.pdb

@@ -51,12 +51,8 @@ namespace MVCLearn
               endpoints.MapControllerRoute(
                   name:"default",
                   pattern:"{controller=Home}/{action=Index}"
-              );
-          });
-          
-           
-           
-           
+                );
+          });   
         }
     }
 }
