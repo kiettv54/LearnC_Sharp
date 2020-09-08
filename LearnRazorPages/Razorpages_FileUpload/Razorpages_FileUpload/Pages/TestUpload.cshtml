@@ -1,0 +1,104 @@
+﻿@page
+@model Razorpages_FileUpload.Pages.TestUploadModel
+@{
+    ViewData["Title"] = "TestUpload";
+    Layout = "_Layout";
+}
+
+<div class="row">
+
+    <div class="row">
+
+        <!-- khung thông tin 1 -->
+        <div class="col-lg-7 p-5 ">
+            <h4><b>A. Sơ yếu lý lịch</b></h4>
+            <div class="form-group">
+                <label>Họ tên:</label>
+                <input type="text" class="form-control" name="txt_hoten" placeholder="Nhập họ tên sinh viên" required>
+                <div class="valid-feedback">Xác nhận.</div>
+                <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+            </div>
+            <!-- ngày sinh -->
+            <div class="form-group">
+                <label>Ngày sinh:</label>
+                <input type="date" class="form-control" name="txt_ngaysinh" required>
+                <div class="valid-feedback">Xác nhận.</div>
+                <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+            </div>
+
+            <!-- nơi sinh -->
+            <div class="form-group">
+                <label>Nơi sinh:</label>
+                <input type="text" class="form-control" name="txt_noisinh" placeholder="Nhập nơi sinh" required>
+                <div class="valid-feedback">Xác nhận.</div>
+                <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+            </div>
+            <div class="row">
+                <div class="col-lg-6 p-6">
+                    <label>Dân tộc:</label>
+                    <input type="text" class="form-control " name="txt_dantoc" placeholder="Nhập dân tộc" required>
+                    <div class="valid-feedback">Xác nhận.</div>
+                    <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+                </div>
+                <div class="col-lg-6 p-6">
+                    <label>Tôn giáo:</label>
+                    <input type="text" class="form-control " name="txt_tongiao" placeholder="Nhập tôn giáo" required>
+                    <div class="valid-feedback">Xác nhận.</div>
+                    <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+                </div>
+            </div>
+        </div>
+        <div class="col-lg-5 p-5 border-0 ">
+            <div class="form-group">
+                <center>
+                    <div class="card border-0 shadow-lg my-3" style="width: 180px; height: 200px;">
+                        <img src="../hinh/avatar.png" style="width: 100%; height: 100%;">
+                    </div>
+                    <input type="file" class="form-control" name="hinhanh">
+                </center>
+
+                <div class="valid-feedback">Xác nhận.</div>
+                <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+            </div>
+        </div>
+    </div>
+    <!-- khung thông tin 2 -->
+    <div class="row">
+        <div class="col-lg-7 p-5">
+            <label>Mã số sinh viên:</label>
+            <input type="text" class="form-control " name="txt_mssv" placeholder="Nhập mã số sinh viên" required>
+
+            <div class="valid-feedback">Xác nhận.</div>
+            <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+
+            <label>Mã lớp:</label>
+            <input type="text" class="form-control " name="txt_lop" placeholder="Nhập mã lớp" required>
+            <div class="valid-feedback">Xác nhận.</div>
+            <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+
+            <label>Ngành:</label>
+            <input type="text" class="form-control " name="txt_nganh" placeholder="Nhập mã ngành" required>
+            <div class="valid-feedback">Xác nhận.</div>
+            <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+
+            <label>Khoa:</label>
+            <input type="text" class="form-control " name="txt_khoa" placeholder="Nhập tên khoa" required>
+            <div class="valid-feedback">Xác nhận.</div>
+            <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+            <label>Hệ đào tạo:</label>
+            <input type="text" class="form-control " name="txt_hedaotao" placeholder="Nhập hệ đào tạo" required>
+            <div class="valid-feedback">Xác nhận.</div>
+            <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+        </div>
+        <div class="col-lg-5 p-5 ">
+            <label>Chức vụ:</label>
+            <input type="text" class="form-control " name="txt_chucvu" placeholder="Nhập chức vụ">
+            <label>Chứng chỉ tin học, ngoại ngữ:</label>
+            <input type="text" class="form-control " name="txt_chungchi" placeholder="ví dụ:tin học cơ bản,IELTS 5.0,TOEIC 100,...">
+            <label>Niên khóa:</label>
+            <input type="text" class="form-control " name="txt_nienkhhoa" placeholder="ví dụ: 2019-2023" required>
+            <div class="valid-feedback">Xác nhận.</div>
+            <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+        </div>
+    </div>
+</div>

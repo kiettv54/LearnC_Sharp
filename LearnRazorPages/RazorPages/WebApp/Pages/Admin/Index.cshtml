@@ -1,0 +1,184 @@
+﻿@page
+@model WebApp.Pages.Admin.IndexModel
+@{
+    ViewData["Title"] = "Index";
+    Layout = "_Admin";
+}
+<div class="container-fluid">
+
+    <!-- Page Heading -->
+    <div class="d-sm-flex align-items-center justify-content-between mb-4">
+        <h1 class="h3 mb-0 text-gray-800">Thống Kê</h1>
+        <!-- <a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fas fa-download fa-sm text-white-50"></i> Xuất dữ liệu</a> -->
+    </div>
+    <!-- Content Row -->
+    <div class="row">
+        <!-- Earnings (Monthly) Card Example -->
+        <a class="col-xl-4 col-md-6 mb-4" asp-page="/admin/thanhvien/index">
+            <div>
+                <div class="card border-left-primary shadow h-100 py-2">
+                    <div class="card-body">
+                        <div class="row no-gutters align-items-center">
+                            <div class="col mr-2">
+                                <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Thành viên:</div>
+                                <div class="h5 mb-0 font-weight-bold text-gray-800">3</div>
+                            </div>
+                            <div class="col-auto">
+                                <i class="fas fa-user-circle fa-2x text-gray-300"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+        <!-- Earnings (Monthly) Card Example -->
+        <a asp-page="/admin/hoatdong/index" class="col-xl-4 col-md-6 mb-4">
+            <div class="card border-left-success shadow h-100 py-2">
+                <div class="card-body">
+                    <div class="row no-gutters align-items-center">
+                        <div class="col mr-2">
+                            <div class="text-xs font-weight-bold text-success text-uppercase mb-1">Hoạt động:</div>
+                            <div class="h5 mb-0 font-weight-bold text-gray-800">5</div>
+                        </div>
+                        <div class="col-auto">
+                            <i class="fas fa-address-card fa-2x text-gray-300"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+
+        <!-- Earnings (Monthly) Card Example -->
+        <a asp-page="/admin/baiviet/index" class="col-xl-4 col-md-6 mb-4">
+            <div class="card border-left-info shadow h-100 py-2">
+                <div class="card-body">
+                    <div class="row no-gutters align-items-center">
+                        <div class="col mr-2">
+                            <div class="text-xs font-weight-bold text-info text-uppercase mb-1">Bài viết: </div>
+                            <div class="row no-gutters align-items-center">
+                                <div class="col-auto">
+                                    <div class="h5 mb-0 mr-3 font-weight-bold text-gray-800">4</div>
+                                </div>
+                                <div class="col">
+                                    <div class="progress progress-sm mr-2">
+                                        <div class="progress-bar bg-info" role="progressbar" s aria-valuemin="0" aria-valuemax="1000"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-auto">
+                            <i class="fas fa-clipboard-list fa-2x text-gray-300"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </a>
+    </div>
+
+    <!-- Content Row -->
+
+    <div class="row">
+
+        <!-- Area Chart -->
+        <div class="col-xl-12 col-lg-12">
+            <div class="card shadow mb-4">
+                <div class="container-fluid">
+                    <!-- DataTales Example -->
+                    <div class="card shadow mb-4">
+                        <div class="card-header py-3">
+                            <h6 class="m-0 font-weight-bold text-primary">Danh Sách Bài Viết</h6>
+                        </div>
+                        <div class="card-body">
+                            <div class="table-responsive">
+                                @*<?php
+                                    //them file
+                                    include("connect.php");
+
+                                    //sua loi font
+                                    mysqli_set_charset($conn, 'UTF8');
+
+                                    //truy van
+                                    $sql="select * from baiviet";
+
+                                    //thuc thi
+                                    $kq =$conn->query($sql);
+                                    if($kq->num_rows > 0)
+                                    {
+                                    ?>*@
+                                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                                    <thead>
+                                        <tr>
+                                            <th>Mã Bài Viết</th>
+                                            <th>Tên Bài Viết</th>
+                                            <th>Ngày Tạo</th>
+                                            <th>Nội Dung Tóm Tắt</th>
+                                            <th>Chức Năng</th>
+                                        </tr>
+                                    </thead>
+                                    <tfoot>
+                                        <tr>
+                                            <th>Mã Bài Viết</th>
+                                            <th>Tên Bài Viết</th>
+                                            <th>Ngày Tạo</th>
+                                            <th>Nội Dung Tóm Tắt</th>
+                                            <th>Chức Năng</th>
+                                        </tr>
+                                    </tfoot>
+                                    <tbody>
+                                        <tr>
+                                            @*<?php
+                                                while($row = $kq->fetch_assoc())
+                                                {
+                                                $datetime = date_create($row['NgayTao']);
+                                                $ngaytao= date_format($datetime,"H:i:s d/m/Y");
+                                                echo "
+                                                <tr>
+                                                    ";
+                                                    echo "
+                                                    <td><center>".$row['MaBV']."</center></td>";
+                                                    echo "
+                                                    <td>".$row['TenBV']."</td>";
+                                                    echo "
+                                                    <td>".$ngaytao."</td>";
+                                                    echo "
+                                                    <td>".$row['NoiDungTT']."</td>";
+                                                    ?>*@
+                                            <td>2</td>
+                                            <td>Chiến dịch mùa hè xanh 2020: Phú Quý Yêu thương</td>
+                                            <td>19:33:09 14/07/2020</td>
+                                            <td>Từ ngày 17/6 đến 23/6/2020, 20 chiến sĩ tình nguyện “mùa hè xanh” tỉnh Bình Dương đã tham gia chiến dịch tình nguyện ý nghĩa tại huyện đảo Phú Quý Yêu thương. Đây là năm thứ 5, Tỉnh đoàn Bình Dương tổ chức chiến dịch mùa hè xanh tại mặt trận huyện Phú Quý, tỉnh Bình Thuận.</td>
+
+                                            <td>
+                                                <center>
+                                                    <button type="button" class="btn btn-primary" style="width: 180px;"><a id="a" style="color: white; text-decoration: none;" asp-page="">Xuất DS Đăng ký</a></button>
+                                                    <button type="button" class="btn btn-success" style="width: 180px;"><a id="a" style="color: white; text-decoration: none;" asp-page="">Xác nhận tham gia</a></button>
+                                                    <button type="button" class="btn btn-primary" style="width: 180px;"><a id="a" style="color: white; text-decoration: none;" asp-page="">Xuất DS đã xác nhận</a></button>
+                                                </center>
+                                            </td>
+                                            @*<?php
+                                                    echo "
+                                                </tr>";
+                                                }
+                                                }
+                                                else{
+                                                echo "0 bản ghi!";
+                                                }
+                                                ?>*@
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Content Row -->
+    <div class="row">
+        <!-- Content Column -->
+        <div class="col-lg-6 mb-4">
+        </div>
+    </div>
+</div>

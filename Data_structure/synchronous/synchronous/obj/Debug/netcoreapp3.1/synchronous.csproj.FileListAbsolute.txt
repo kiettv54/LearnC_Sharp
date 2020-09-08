@@ -1,0 +1,13 @@
+D:\c_sharp\Data_structure\synchronous\synchronous\bin\Debug\netcoreapp3.1\synchronous.exe
+D:\c_sharp\Data_structure\synchronous\synchronous\bin\Debug\netcoreapp3.1\synchronous.deps.json
+D:\c_sharp\Data_structure\synchronous\synchronous\bin\Debug\netcoreapp3.1\synchronous.runtimeconfig.json
+D:\c_sharp\Data_structure\synchronous\synchronous\bin\Debug\netcoreapp3.1\synchronous.runtimeconfig.dev.json
+D:\c_sharp\Data_structure\synchronous\synchronous\bin\Debug\netcoreapp3.1\synchronous.dll
+D:\c_sharp\Data_structure\synchronous\synchronous\bin\Debug\netcoreapp3.1\synchronous.pdb
+D:\c_sharp\Data_structure\synchronous\synchronous\obj\Debug\netcoreapp3.1\synchronous.csprojAssemblyReference.cache
+D:\c_sharp\Data_structure\synchronous\synchronous\obj\Debug\netcoreapp3.1\synchronous.AssemblyInfoInputs.cache
+D:\c_sharp\Data_structure\synchronous\synchronous\obj\Debug\netcoreapp3.1\synchronous.AssemblyInfo.cs
+D:\c_sharp\Data_structure\synchronous\synchronous\obj\Debug\netcoreapp3.1\synchronous.csproj.CoreCompileInputs.cache
+D:\c_sharp\Data_structure\synchronous\synchronous\obj\Debug\netcoreapp3.1\synchronous.dll
+D:\c_sharp\Data_structure\synchronous\synchronous\obj\Debug\netcoreapp3.1\synchronous.pdb
+D:\c_sharp\Data_structure\synchronous\synchronous\obj\Debug\netcoreapp3.1\synchronous.genruntimeconfig.cache

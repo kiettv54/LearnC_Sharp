@@ -1,0 +1,132 @@
+﻿@page
+@{
+    ViewData["Title"] = "tranghoatdong";
+    Layout = "_Layout";
+}
+
+<div class="col-sm-8" style="background-color: lavender;">
+    <div class="row-sm" style="background-color: #4D636F; text-align: center; color: white;">
+        <form action="" method="post">
+
+            <!-- Chon hoạt động -->
+            <div class="form-group">
+                <label for="slhoatdong">Tên hoạt động</label>
+                <select name="slhoatdong" id="slhoatdong">
+                    <option selected value="0">Chọn hoạt động</option>
+                    @*<?php
+                        //them file
+                        include("connect.php");
+
+                        //sua loi font
+                        mysqli_set_charset($conn, 'UTF8');
+
+                        //truy van
+                        $sql="select * from hoatdong";
+
+                        //thuc thi
+                        $kq =$conn->query($sql);
+                        if($kq->num_rows > 0)
+                        {
+                        while($row = $kq->fetch_assoc())
+                        {
+                        if($_GET['mahd'] == $row["MaHD"])
+                        {
+                        echo "
+                        <option selected value='".$row["MaHD"]."'>
+                            ";
+                            echo $row["TenHD"];
+                            echo "
+                        </option>";
+                        }
+                        else
+                        {
+                        echo "
+                        <option value='".$row["MaHD"]."'>
+                            ";
+                            echo $row["TenHD"];
+                            echo "
+                        </option>";
+                        }
+                        }
+                        }
+                        ?>*@
+                    <option value="1">Mùa hè xanh</option>
+                    <option value="2">Trồng cây</option>
+                    <option value="3">Sinh hoạt khóa 2020</option>
+                </select>
+                <button type="submit" id="btndsbv" name="btndsbv">Lấy danh sách bài viết</button>
+            </div>
+            <h3><strong><p>Danh sách bài viết</p></strong></h3>
+        </form>
+    </div>
+    @*<?php
+        $mahd="";
+        if(isset($_POST["btndsbv"]))
+        {
+        if(isset($_POST["slhoatdong"])){
+        $mahd = $_POST["slhoatdong"];
+
+        ?>*@
+    <div class="w3-row-padding" style="margin-top: 10px;">
+        @*<?php
+            include "connect.php";
+            $sql = "SELECT * FROM baiviet where MaHD='$mahd' GROUP by MaBV DESC ";
+            $result = $conn->query($sql);
+            if($result->num_rows>0)
+            {
+            while($row = $result->fetch_assoc()){
+            ?>*@
+        <div class="w3-third w3-container w3-margin-bottom">
+            <!-- <a href="chitietbaiviet.php?mahd=<?php echo $mahd; ?>&mabv=<?php echo $row["MaBV"]; ?>"> -->
+            <a href="#">
+
+                @*<img src="hinh/hinhbaiviet/<?php echo $row[" HinhBV"]; ?>" alt="Norway" style="width: 390px; height: 300px;" class="w3-hover-opacity">*@
+                <div class="w3-container w3-white">
+                    @*<p><b><?php echo $row["TenBV"]; ?></b></p>
+                        <p><?php echo $row["NoiDungTT"]; ?>< />*@
+                </div>
+            </a>
+        </div>
+        @*<?php
+            }
+            }
+            ?>*@
+    </div>
+    @*<?php
+        }
+        }
+        ?>*@
+</div>
+<!-- end display nội dung -->
+<!-- start khung -->
+<div class="col-sm-2" style="background-color: powderblue;">
+    <div class="row-sm justify-content-center">
+        <!--  <h4><strong><p>Hoạt Động</p></strong></h4> -->
+        @*<?php
+            if(isset($_POST["btndsbv"]))
+            {
+            if(isset($_POST["slhoatdong"])){
+            $mahd = $_POST["slhoatdong"];
+
+            ?>*@
+
+        <h4 style="text-align:center;"><strong><p>Hoạt Động</p></strong></h4>
+        @*<?php
+            include "connect.php";
+
+            $hd = "select * from hoatdong where MaHD='$mahd'";
+            $rs = $conn->query($hd);
+            if($rs->num_rows>0){
+            $row3 = $rs->fetch_assoc();
+            ?>
+            <p>Tên hoạt động: <?php echo $row3["TenHD"]?></p><br>
+            <p>Ngày tạo: <?php  echo $row3["NgayTao"]?></p><br>
+            <p>Địa điểm: <?php echo $row3["DiaDiem"]?></p><br>
+            <p>Văn bản triển khai: <a href="tailieu/<?php echo $row3[" VBTrienKhai"]?>"><?php echo $row3["VBTrienKhai"]?></a></p>
+            <?php
+            }
+            }
+            }
+            ?>*@
+    </div>
+</div>

@@ -1,0 +1,47 @@
+﻿@page
+@model Razorpages_FileUpload.Pages.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+
+<form method="post" enctype="multipart/form-data">
+    <p>
+        <input type="file" name="uploadfiles"  accept="image/*"/>
+        <input type="submit" value="Upload" class="btn btn-primary" />
+    </p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.ImageSave[0].Imgname)
+                </th>
+                <th>
+                    Image
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model.ImageSave)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Imgname)
+                    </td>
+                    <td>
+                        <img src="~/Images/@item.Imgname" height="100" width="80" alt="@item.Imgname" />
+                    </td>
+                    <td>
+                        <a asp-page="./Edit" asp-route-id="@item.Imgid">Edit</a> |
+                        <a asp-page="./Details" asp-route-id="@item.Imgid">Details</a> |
+                        <a asp-page="./Delete" asp-route-id="@item.Imgid">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</form>

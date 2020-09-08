@@ -1,0 +1,12 @@
+﻿Sorry, there was a problem downloading some files from OneDrive. Please try again.
+
+BookMan.WebApp.StaticWebAssets.Manifest.cache - https://onedrive.live.com/?cid=866a27c88a8fdabf&id=866A27C88A8FDABF%21289427&action=Download&authKey=!AGeGgQFgn7emGDI
+
+BookMan.WebApp.csproj.CopyComplete - https://onedrive.live.com/?cid=866a27c88a8fdabf&id=866A27C88A8FDABF%21289083&action=Download&authKey=!AGeGgQFgn7emGDI
+
+BookMan.WebApp.MvcApplicationPartsAssemblyInfo.cache - https://onedrive.live.com/?cid=866a27c88a8fdabf&id=866A27C88A8FDABF%21289077&action=Download&authKey=!AGeGgQFgn7emGDI
+
+BookMan.WebApp.TagHelpers.input.cache - https://onedrive.live.com/?cid=866a27c88a8fdabf&id=866A27C88A8FDABF%21289068&action=Download&authKey=!AGeGgQFgn7emGDI
+
+
+

@@ -21,6 +21,8 @@ namespace ArrayList_CSharp
 			{
 				Console.WriteLine(item);
 			}
+			Console.WriteLine("count:" + arrayList.Count);
+
 			Console.ReadLine();
 		}
 	}

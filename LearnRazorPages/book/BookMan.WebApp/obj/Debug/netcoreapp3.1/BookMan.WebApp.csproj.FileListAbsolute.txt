@@ -1,0 +1,795 @@
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.exe
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.deps.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.runtimeconfig.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.runtimeconfig.dev.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.pdb
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.Views.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.Views.pdb
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.csprojAssemblyReference.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorAssemblyInfo.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorAssemblyInfo.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.AssemblyInfoInputs.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.AssemblyInfo.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.TagHelpers.input.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.TagHelpers.output.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorCoreGenerate.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorTargetAssemblyInfo.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorTargetAssemblyInfo.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.Views.pdb
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.csproj.CopyComplete
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\staticwebassets\BookMan.WebApp.StaticWebAssets.Manifest.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\staticwebassets\BookMan.WebApp.StaticWebAssets.xml
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.pdb
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.genruntimeconfig.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.csproj.CoreCompileInputs.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.MvcApplicationPartsAssemblyInfo.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.MvcApplicationPartsAssemblyInfo.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Book.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.exe
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.deps.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.runtimeconfig.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.runtimeconfig.dev.json
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.pdb
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.Views.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\BookMan.WebApp.Views.pdb
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.csprojAssemblyReference.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.csproj.CoreCompileInputs.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.MvcApplicationPartsAssemblyInfo.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.MvcApplicationPartsAssemblyInfo.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorAssemblyInfo.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorAssemblyInfo.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.AssemblyInfoInputs.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.AssemblyInfo.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.TagHelpers.input.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.TagHelpers.output.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorCoreGenerate.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Book.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorTargetAssemblyInfo.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorTargetAssemblyInfo.cs
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.Views.pdb
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.csproj.CopyComplete
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\staticwebassets\BookMan.WebApp.StaticWebAssets.Manifest.cache
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\staticwebassets\BookMan.WebApp.StaticWebAssets.xml
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.dll
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.pdb
+G:\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.genruntimeconfig.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.csprojAssemblyReference.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.AssemblyInfoInputs.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.AssemblyInfo.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorAssemblyInfo.cache
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.RazorAssemblyInfo.cs
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.dll
+C:\Users\admin\OneDrive\TuHocICT\Learn ASP NET Core\BookMan (2)\BookMan.WebApp\obj\Debug\netcoreapp3.1\BookMan.WebApp.pdb

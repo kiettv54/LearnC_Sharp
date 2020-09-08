@@ -1,0 +1,13 @@
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\bin\Debug\netcoreapp3.1\Dictionnary_hash.exe
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\bin\Debug\netcoreapp3.1\Dictionnary_hash.deps.json
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\bin\Debug\netcoreapp3.1\Dictionnary_hash.runtimeconfig.json
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\bin\Debug\netcoreapp3.1\Dictionnary_hash.runtimeconfig.dev.json
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\bin\Debug\netcoreapp3.1\Dictionnary_hash.dll
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\bin\Debug\netcoreapp3.1\Dictionnary_hash.pdb
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\obj\Debug\netcoreapp3.1\Dictionnary_hash.csprojAssemblyReference.cache
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\obj\Debug\netcoreapp3.1\Dictionnary_hash.AssemblyInfoInputs.cache
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\obj\Debug\netcoreapp3.1\Dictionnary_hash.AssemblyInfo.cs
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\obj\Debug\netcoreapp3.1\Dictionnary_hash.csproj.CoreCompileInputs.cache
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\obj\Debug\netcoreapp3.1\Dictionnary_hash.dll
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\obj\Debug\netcoreapp3.1\Dictionnary_hash.pdb
+D:\c_sharp\Data_structure\Dictionnary_hash\Dictionnary_hash\obj\Debug\netcoreapp3.1\Dictionnary_hash.genruntimeconfig.cache

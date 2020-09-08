@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookMan.WebApp", "BookMan.WebApp\BookMan.WebApp.csproj", "{755A6335-5524-45BB-BED5-FBFF74B79661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{755A6335-5524-45BB-BED5-FBFF74B79661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755A6335-5524-45BB-BED5-FBFF74B79661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755A6335-5524-45BB-BED5-FBFF74B79661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755A6335-5524-45BB-BED5-FBFF74B79661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {890F1674-273E-41E4-94E4-3D6DD920394A}
+	EndGlobalSection
+EndGlobal

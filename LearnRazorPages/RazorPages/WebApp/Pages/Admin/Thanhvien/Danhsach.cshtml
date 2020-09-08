@@ -1,0 +1,109 @@
+﻿@page
+@model WebApp.Pages.Admin.Thanhvien.DanhsachModel
+@{
+    ViewData["Title"] = "Danhsach";
+    Layout = "_Admin";
+}
+<div class="form-group">
+
+    <form action="" method="post">
+        <label for="checkin">Ngày bắt đầu</label>
+        <input type="date" name="checkin" id="checkin">
+        <label for="checkout">Ngày kết thúc</label>
+        <input type="date" name="checkout" id="checkout">
+        <label for="solanthamgia">Nhập số lần tham gia</label>
+        <input type="number" name="solanthamgia" id="solanthamgia">
+        <button type="submit" id="btnsb" name="btnsb">Lấy danh sách</button>
+        <button type="submit" formaction="" id="btnsm" name="btnsm">Xuất file Word</button>
+        @*<input type="submit" id="btnsm" name="btnsm" value="Xuất file Word">*@
+    </form>
+</div>
+
+<div class="container-fluid">
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Danh Sách thành viên</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                @*<?php
+                    //them file
+                    include("connect.php");
+                    $ma="";
+                    //sua loi font
+                    mysqli_set_charset($conn, 'UTF8');
+
+                    if(isset($_POST['btnsb'])){
+
+                    $checkin = $_POST['checkin'];
+                    $checkout = $_POST['checkout'];
+                    $solanthamgia = $_POST['solanthamgia'];
+                    $_SESSION["checkin"] = $_POST['checkin'];
+                    $_SESSION["checkout"] = $_POST['checkout'];
+                    $_SESSION["solanthamgia"] = $_POST['solanthamgia'];
+                    $sql="select thanhvien.mssv,thanhvien.hoten,thanhvien.malop,count(*) as solanthamgia from thanhvienbaiviets,thanhvien where thanhvienbaiviets.mssv = thanhvien.mssv and NgayDK >='$checkin' and NgayDK <='$checkout' and thanhvienbaiviets.TrangThai = 1 group by thanhvien.mssv,thanhvien.hoten,thanhvien.malop having count(*) >='$solanthamgia'";
+
+                    //thuc thi
+                    $kq =$conn->query($sql);
+                    if($kq->num_rows > 0)
+                    {
+                    ?>*@
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>Mã số</th>
+                            <th>Họ tên</th>
+                            <th>Mã lớp</th>
+
+                            <th>Số lần tham gia</th>
+                        </tr>
+                    </thead>
+
+                    <tbody>
+                        @*<?php
+                            while($row = $kq->fetch_assoc())
+                            {
+
+                            echo "
+                            <tr>
+                                ";
+                                echo "
+                                <td><center>".$row['mssv']."</center></td>";
+                                echo "
+                                <td>".$row['hoten']."</td>";
+                                echo "
+                                <td>".$row['malop']."</td>";
+                                echo "
+                                <td>".$row['solanthamgia']."</td>";
+                                echo "
+                            </tr>";
+
+                            }
+                            ?>*@
+                        <tr>
+                            <td>110117074</td>
+                            <td>Phan Tuấn Kiệt</td>
+                            <td>DA17TT</td>
+                            <td>10</td>
+                        </tr>
+                    </tbody>
+
+                    <tfoot>
+                        <tr>
+                            <th>Mã số</th>
+                            <th>Họ tên</th>
+                            <th>Mã lớp</th>
+
+                            <th>Số lần tham gia</th>
+                        </tr>
+                    </tfoot>
+                </table>
+                @*<?php
+                    }
+                    }
+                    ?>*@
+            </div>
+        </div>
+    </div>
+</div>

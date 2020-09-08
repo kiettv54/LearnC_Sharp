@@ -1,0 +1,14 @@
+D:\c_sharp\MobileDev\Example\Example\Example\bin\Debug\netstandard2.0\Example.deps.json
+D:\c_sharp\MobileDev\Example\Example\Example\bin\Debug\netstandard2.0\Example.dll
+D:\c_sharp\MobileDev\Example\Example\Example\bin\Debug\netstandard2.0\ref\Example.dll
+D:\c_sharp\MobileDev\Example\Example\Example\bin\Debug\netstandard2.0\Example.pdb
+D:\c_sharp\MobileDev\Example\Example\Example\obj\Debug\netstandard2.0\Example.csprojAssemblyReference.cache
+D:\c_sharp\MobileDev\Example\Example\Example\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\c_sharp\MobileDev\Example\Example\Example\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\c_sharp\MobileDev\Example\Example\Example\obj\Debug\netstandard2.0\Example.AssemblyInfoInputs.cache
+D:\c_sharp\MobileDev\Example\Example\Example\obj\Debug\netstandard2.0\Example.AssemblyInfo.cs
+D:\c_sharp\MobileDev\Example\Example\Example\obj\Debug\netstandard2.0\Example.csproj.CoreCompileInputs.cache
+D:\c_sharp\MobileDev\Example\Example\Example\obj\Debug\netstandard2.0\XamlC.stamp
+D:\c_sharp\MobileDev\Example\Example\Example\obj\Debug\netstandard2.0\Example.dll
+D:\c_sharp\MobileDev\Example\Example\Example\obj\Debug\netstandard2.0\ref\Example.dll
+D:\c_sharp\MobileDev\Example\Example\Example\obj\Debug\netstandard2.0\Example.pdb

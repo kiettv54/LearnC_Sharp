@@ -1,0 +1,227 @@
+﻿@page
+@model WebApp.Pages.Admin.Thanhvien.RegisterModel
+@{
+    ViewData["Title"] = "Register";
+    Layout = "_Admin";
+}
+<div class="container">
+    <div class="card o-hidden border-0 shadow-lg my-5">
+        <div class="card-body p-0">
+            <!-- Nested Row within Card Body -->
+            <div class="row">
+                <div class="col-lg-5 d-none d-lg-block bg-register-image"></div>
+                <div class="col-lg-7">
+                    <div class="p-5">
+                        <div class="text-center">
+                            <h1 class="h4 text-gray-900 mb-4">Tạo tài khoản!</h1>
+                        </div>
+                        <form class="needs-validation user" action="XuLy/xuly_taotaikhoan.php" method="POST" novalidate>
+                            <div class="form-group">
+                                @*<?php
+                                    if(isset($_GET['maup']))
+                                    {
+                                    ?>
+                                    <input type="text" class="form-control form-control-user" style="font-size: 15px" name="txt_mssv" placeholder="Mã số sinh viên" required readonly value="<?php echo $mssv_val; ?>">
+                                    <?php
+                                    }
+                                    else
+                                    {
+                                    ?>*@
+                                <input type="text" class="form-control form-control-user" style="font-size: 15px" name="txt_mssv" placeholder="Mã số sinh viên" required>
+                                @*<?php
+                                    }
+                                    ?>*@
+                                <div class="valid-feedback">Xác nhận.</div>
+                                <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+                            </div>
+                            <div class="form-group">
+                                @*<?php
+                                    if(isset($_GET['maup']))
+                                    {
+                                    ?>
+                                    <input type="text" class="form-control form-control-user" style="font-size: 15px" name="txt_hoten" placeholder="Họ tên sinh viên" required readonly value="<?php echo $hoten_val; ?>">
+                                    <?php
+                                    }
+                                    else
+                                    {
+                                    ?>*@
+                                <input type="text" class="form-control form-control-user" style="font-size: 15px" name="txt_hoten" placeholder="Họ tên sinh viên" required>
+                                @*<?php
+                                    }
+                                    ?>*@
+                                <div class="valid-feedback">Xác nhận.</div>
+                                <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+                            </div>
+                            <div class="form-group">
+                                @*<?php
+                                    if(isset($_GET['maup']))
+                                    {
+                                    ?>
+                                    <input type="txt_email" class="form-control form-control-user" style="font-size: 15px" name="txt_email" placeholder="Nhập địa chỉ Email" required readonly value="<?php echo $mail_val; ?>">
+                                    <?php
+                                    }
+                                    else
+                                    {
+                                    ?>*@
+                                <input type="txt_email" class="form-control form-control-user" style="font-size: 15px" name="txt_email" placeholder="Nhập địa chỉ Email" required>
+                                @*<?php
+                                    }
+                                    ?>*@
+                                <div class="valid-feedback">Xác nhận.</div>
+                                <div class="invalid-feedback">Vui lòng điền vào trường này.</div>
+                            </div>
+                            <div class="form-group">
+                                <label for="sl_quyen">Chọn quyền:</label>
+                                <select class="form-control" name="sl_quyen">
+                                    <option selected value="0">Chọn quyền</option>
+                                    <option value="1">Quản trị viên</option>
+                                    <option value="2">Biên tập viên</option>
+
+                                    @*<?php
+                                        //them file
+                                        include("connect.php");
+
+                                        //sua loi font
+                                        mysqli_set_charset($conn, 'UTF8');
+
+                                        //truy van
+                                        $sql="select * from Quyen";
+
+                                        //thuc thi
+                                        $kq =$conn->query($sql);
+                                        if($kq->num_rows > 0)
+                                        {
+                                        while($row = $kq->fetch_assoc())
+                                        {
+                                        if($maquyen_val == $row["MaQuyen"])
+                                        {
+                                        echo "
+                                        <option style='font-size: 15px;' selected value='".$row["MaQuyen"]."'>
+                                            ";
+                                            echo $row["TenQuyen"];
+                                            echo "
+                                        </option>";
+                                        }
+                                        else
+                                        {
+                                        echo "
+                                        <option style='font-size: 15px;' value='".$row["MaQuyen"]."'>
+                                            ";
+                                            echo $row["TenQuyen"];
+                                            echo "
+                                        </option>";
+                                        }
+                                        }
+                                        }
+                                        ?>*@
+                                </select> <br>
+                                <div class="row">
+                                    <div class="col">
+                                        <button type="submit" class="btn btn-success btn-user btn-block" style="font-size: 15px" name="sbthem">Tạo tài khoản</button>
+                                        <button type="reset" class="btn btn-info btn-user btn-block" style="font-size: 15px">Nhập lại</button>
+                                    </div>
+                                    <div class="col">
+                                        <button type="submit" class="btn btn-primary btn-user btn-block" style="font-size: 15px" name="capnhat">Cập Nhật</button>
+                                        <button type="button" class="btn btn-secondary btn-user btn-block" style="font-size: 15px"><a asp-page="admin/thanhvien/register" style="color: white; text-decoration: none;">Tạo Mới</a></button>
+                                    </div>
+                                </div>
+                        </form>
+                        @*<form action="Xuly/uploadExcel.php" method="post" enctype="multipart/form-data">
+                                <div class="form-group">
+                                    <label for="txtFile">Nhập dữ liệu từ file Excel:</label>
+                                    <input type="file" class="form-control" id="txtFile" style="font-size: 15px" name="txtFile"><br>
+                                    <button type="submit" class="btn btn-success btn-user btn-block" style="font-size: 15px" name="sbFile">Nhập file Excel</button>
+                                </div>
+                            </form>*@
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <!-- DataTales Example -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3">
+            <h6 class="m-0 font-weight-bold text-primary">Danh Sách Thành Viên</h6>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                @*<?php
+                    //them file
+                    include("connect.php");
+
+                    //sua loi font
+                    mysqli_set_charset($conn, 'UTF8');
+
+                    //truy van
+                    $sql="select MSSV,HoTen,Email,TenQuyen from thanhvien as tv, quyen as q WHERE tv.MaQuyen=q.MaQuyen";
+
+                    //thuc thi
+                    $kq =$conn->query($sql);
+                    if($kq->num_rows > 0)
+                    {
+                    ?>*@
+                <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                        <tr>
+                            <th>MSSV</th>
+                            <th>Họ Tên</th>
+                            <th>Email</th>
+                            <th>Tên Quyền</th>
+                            <th>Chức Năng</th>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <th>MSSV</th>
+                            <th>Họ Tên</th>
+                            <th>Email</th>
+                            <th>Tên Quyền</th>
+                            <th>Chức Năng</th>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        <tr>
+                            @*<?php
+                                while($row = $kq->fetch_assoc())
+                                {
+                                echo "
+                                <tr>
+                                    ";
+                                    echo "
+                                    <td><center>".$row['MSSV']."</center></td>";
+                                    echo "
+                                    <td>".$row['HoTen']."</td>";
+                                    echo "
+                                    <td>".$row['Email']."</td>";
+                                    echo "
+                                    <td>".$row['TenQuyen']."</td>";
+                                    ?>*@
+                            <td>110117074</td>
+                            <td>Phan Tuấn Kiệt</td>
+                            <td>110117074@sv.tvu.edu.vn</td>
+                            <td>Quản trị viên</td>
+
+                            <td>
+                                <center>
+                                    <button type="button" class="btn btn-danger" style="width: 60px;"><a style="color: white; text-decoration: none;" onclick="return confirm('Bạn thật sự muốn xóa?')" asp-action="">Xóa</a></button>
+                                    <button type="button" class="btn btn-primary" style="width: 60px;"><a id="a" style="color: white; text-decoration: none;" asp-action="">Sửa</a></button>
+                                    <button type="button" class="btn btn-primary" style="width: 150px;"><a id="a" style="color: white; text-decoration: none;" onclick="return confirm('Bạn thật sự muốn đặt lại mật khẩu?')" asp-action="">Đặt lại mật khẩu</a></button>
+                                </center>
+                            </td>
+                            @*<?php
+                                echo "*@
+                        </tr>"@*;
+                            }
+                            }
+                            else{
+                            echo "0 bản ghi!";
+                            }
+                            ?>*@
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

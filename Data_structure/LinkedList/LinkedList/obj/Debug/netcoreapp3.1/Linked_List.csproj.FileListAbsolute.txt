@@ -1,0 +1,13 @@
+D:\c_sharp\Data_structure\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\Linked_List.exe
+D:\c_sharp\Data_structure\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\Linked_List.deps.json
+D:\c_sharp\Data_structure\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\Linked_List.runtimeconfig.json
+D:\c_sharp\Data_structure\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\Linked_List.runtimeconfig.dev.json
+D:\c_sharp\Data_structure\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\Linked_List.dll
+D:\c_sharp\Data_structure\LinkedList\LinkedList\bin\Debug\netcoreapp3.1\Linked_List.pdb
+D:\c_sharp\Data_structure\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\Linked_List.csprojAssemblyReference.cache
+D:\c_sharp\Data_structure\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\Linked_List.AssemblyInfoInputs.cache
+D:\c_sharp\Data_structure\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\Linked_List.AssemblyInfo.cs
+D:\c_sharp\Data_structure\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\Linked_List.csproj.CoreCompileInputs.cache
+D:\c_sharp\Data_structure\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\Linked_List.dll
+D:\c_sharp\Data_structure\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\Linked_List.pdb
+D:\c_sharp\Data_structure\LinkedList\LinkedList\obj\Debug\netcoreapp3.1\Linked_List.genruntimeconfig.cache

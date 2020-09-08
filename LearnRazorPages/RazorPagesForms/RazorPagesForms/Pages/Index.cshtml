@@ -1,0 +1,12 @@
+﻿@page
+@model RazorPagesForms.Pages.IndexModel
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<form method="post" enctype="multipart/form-data">
+    <input type="file" asp-for="Upload" />
+    <input type="submit" />
+</form>

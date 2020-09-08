@@ -1,0 +1,13 @@
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.exe
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.deps.json
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.json
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.runtimeconfig.dev.json
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.dll
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\bin\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csprojAssemblyReference.cache
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfoInputs.cache
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.AssemblyInfo.cs
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.csproj.CoreCompileInputs.cache
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.dll
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.pdb
+D:\c_sharp\Data_structure\SelectionSort\SelectionSort\obj\Debug\netcoreapp3.1\SelectionSort.genruntimeconfig.cache

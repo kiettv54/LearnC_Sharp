@@ -1,0 +1,13 @@
+D:\c_sharp\Data_structure\LearnArray\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.exe
+D:\c_sharp\Data_structure\LearnArray\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.deps.json
+D:\c_sharp\Data_structure\LearnArray\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.runtimeconfig.json
+D:\c_sharp\Data_structure\LearnArray\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.runtimeconfig.dev.json
+D:\c_sharp\Data_structure\LearnArray\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.dll
+D:\c_sharp\Data_structure\LearnArray\LearnArray\bin\Debug\netcoreapp3.1\LearnArray.pdb
+D:\c_sharp\Data_structure\LearnArray\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.AssemblyInfoInputs.cache
+D:\c_sharp\Data_structure\LearnArray\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.AssemblyInfo.cs
+D:\c_sharp\Data_structure\LearnArray\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.csproj.CoreCompileInputs.cache
+D:\c_sharp\Data_structure\LearnArray\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.dll
+D:\c_sharp\Data_structure\LearnArray\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.pdb
+D:\c_sharp\Data_structure\LearnArray\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.genruntimeconfig.cache
+D:\c_sharp\Data_structure\LearnArray\LearnArray\obj\Debug\netcoreapp3.1\LearnArray.csprojAssemblyReference.cache

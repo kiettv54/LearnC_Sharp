@@ -1,0 +1,56 @@
+﻿@page
+@model WebApp.Pages.SearchModel
+@{
+    ViewData["Title"] = "Search";
+    Layout = "_Layout";
+}
+
+<div class="col-sm-10" style="background-color: lavender;">
+    <div class="row-sm" style="background-color: #4D636F; text-align: center; color: white;">
+        <h3><strong><p>Tìm kiếm</p></strong></h3>
+    </div>
+    <div class="container-fluid row-sm">
+        <form asp-action="" class="form-inline my-2 my-lg" method="post">
+            <input class="form-control mr-sm-2" type="text" name="txtsearch" placeholder="Search">
+            <button class="btn btn-success my-2 my-sm" type="submit" name="btnsearch">Tìm kiếm</button>
+        </form>
+    </div>
+    @*<?php
+        if(isset($_POST["btnsearch"])){
+
+        if(isset($_POST['txtsearch'])){
+        $search = $_POST['txtsearch'];
+        ?>
+        <div class="w3-row-padding" style="margin-top: 10px;">
+            <?php
+            include "connect.php";
+            $sql = "SELECT * FROM baiviet where TenBV LIKE '%$search%' GROUP by MaBV";
+            $result = $conn->query($sql);
+            if($result->num_rows>0)
+            {
+            while($row = $result->fetch_assoc()){
+            ?>
+            <div class="w3-third w3-container w3-margin-bottom">
+                <a href="hienthi.php?MaBV=<?php echo $row[" MaBV"]; ?>
+                    ">
+                    <img src="hinh/hinhbaiviet/<?php echo $row[" HinhBV"]; ?>" alt="Norway" style="width:100%" class="w3-hover-opacity">
+                    <div class="w3-container w3-white">
+                        <p><b><?php echo $row["TenBV"]; ?></b></p>
+                        <p><?php echo $row["NoiDungTT"]; ?>< />
+                    </div>
+                </a>
+            </div>
+            <?php
+            }
+            }
+            else
+            {
+            echo "Không tìm thấy kết quả với tên bài viết:".$search;
+            }
+            ?>
+        </div>
+        <?php
+        }
+        }
+        ?>*@
+</div>
